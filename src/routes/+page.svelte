@@ -69,7 +69,7 @@
 
 	.button {
 		flex: none;
-		width: 2.5rem;
-		height: 2.5rem;
+		width: 4rem;
+		height: 4rem;
 	}
 </style>
